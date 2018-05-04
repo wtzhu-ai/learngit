@@ -1,0 +1,15 @@
+test six
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/test.txt b/test.txt
+index 82d2a85..5d72c7c 100644
+--- a/test.txt
++++ b/test.txt
+@@ -3,3 +3,4 @@
+ 789
+ 987
+ 654
++000
